@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
-    
+    <meta name="google-site-verification" content="lsriVNmuZXXuihAnyH3OzqT43C8OcW9GPRutSXhlvEE" />
     <!-- === META TITLE & DESCRIPTION (SEO + backlink value) === -->
     <title>Kalkulator Frekwencji | Darmowe narzędzie online | frekwencja-edu.pl</title>
     <meta name="description" content="Oblicz swoją frekwencję procentową w kilka sekund. Prosty kalkulator obecności online. Zapraszamy na frekwencja-edu.pl po więcej materiałów edukacyjnych.">
