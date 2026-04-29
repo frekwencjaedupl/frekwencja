@@ -18,7 +18,7 @@
     <meta property="og:url" content="https://frekwencja-edu.pl">
     <meta property="og:image" content="https://frekwencja-edu.pl/og-image.jpg"> <!-- opcjonalne, nie wymaga faktycznego obrazka -->
     <meta property="og:site_name" content="frekwencja edu">
-    
+    <meta name="google-site-verification" content="lsriVNmuZXXuihAnyH3OzqT43C8OcW9GPRutSXhlvEE" />
     <link rel="canonical" href="https://frekwencja-edu.pl/kalkulator">
     
     <style>
